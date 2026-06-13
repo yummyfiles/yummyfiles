@@ -8,28 +8,28 @@
 
 ---
 
-## 🧃 about
+##  about
 - i make random tools and apps
 - i like building things from scratch
 - learning by shipping projects
 
 ---
 
-## ⚙️ what i do
+##  what i do
 - web + app development
 - UI experiments
 - small tools that solve random problems
 
 ---
 
-## 🛠 tech
+##  tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,js,ts,nodejs,react,html,css,git,vscode" />
 </p>
 
 ---
 
-## 📊 stats
+##  stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&theme=dark&hide_border=true" />
 </p>
@@ -40,5 +40,5 @@
 
 ---
 
-## 🍓 vibe
+##  vibe
 > building things for fun, not perfection
