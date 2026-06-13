@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=yummyfiles&fontSize=42&fontColor=ffffff" />
+</p>
 
-<!--
-**yummyfiles/yummyfiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  just building stuff i think is cool
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧃 about
+- i make random tools and apps
+- i like building things from scratch
+- learning by shipping projects
+
+---
+
+## ⚙️ what i do
+- web + app development
+- UI experiments
+- small tools that solve random problems
+
+---
+
+## 🛠 tech
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,nodejs,react,html,css,git,vscode" />
+</p>
+
+---
+
+## 📊 stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yummyfiles&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🍓 vibe
+> building things for fun, not perfection
