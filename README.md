@@ -1,9 +1,5 @@
-<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
-
-<div style="font-family: 'Share Tech Mono', monospace;">
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=yummyfiles&fontSize=44&fontColor=ffffff&fontAlignY=55" />
+  <img src="github-header-banner.png" />
 </p>
 
 <p align="center">
