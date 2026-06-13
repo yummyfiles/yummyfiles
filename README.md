@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  just building stuff i think is cool
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=F7F7F7&width=435&center=true&vCenter=true&lines=YUMMYFILES+%2F+%2F+DEV" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
