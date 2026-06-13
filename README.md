@@ -44,7 +44,7 @@
 
 ## // TECH
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,js,ts,nodejs,react,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,js,ts,nodejs,react,html,css,git,vscode" />
 </p>
 
 ---
