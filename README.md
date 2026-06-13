@@ -32,7 +32,7 @@
 - i make random tools and apps  
 - i like building things from scratch  
 - learning by shipping projects  
-
+- currently working on ImageX
 ---
 
 ## // WHAT I DO
