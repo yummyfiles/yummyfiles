@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=YUMMYFILES+%2F+%2F+DEV;BUILDING+SYSTEMS;SHIPPING+IDEAS" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=building+random+stuff;just+building+things;making+cool+tools;shipping+ideas;code.+build.+repeat." />
   </a>
 </p>
 
