@@ -20,7 +20,7 @@ I build apps, websites, tools, and random ideas that somehow turn into real proj
 
 ---
 
-## > Current Projects
+## > CURRENT PROJECTS
 
 ### MusicX
 Offline music player focused on speed, simplicity, and zero ads.
@@ -37,6 +37,16 @@ Whatever project I'm obsessed with this week.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,kotlin,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+## > CURRENTLY LISTENING TO
+
+<p align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314ivqii4z7orla4p34rhgvkxxji&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
 
 ---
