@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg" style="display: block;">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&background=000000&lines=YUMMYFILES+%2F+%2F+DEV;Android+apps;Desktop+apps;Making+cool+tools" 
+      src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&background=00000000&lines=YUMMYFILES+%2F+%2F+DEV;Android+apps;Desktop+apps;Making+cool+tools" 
       alt="Typing SVG"
       style="display: block; margin: 0 auto;"
     />
@@ -19,11 +19,11 @@
 <p align="center">
 
   <a href="https://github.com/yummyfiles">
-    <img src="https://img.shields.io/badge/GitHub-yummyfiles-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-yummyfiles-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000"/>
   </a>
 
   <a href="https://www.youtube.com/@TheWolfPack123">
-    <img src="https://img.shields.io/badge/YouTube-Channel-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-Channel-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=000000"/>
   </a>
 
 </p>
@@ -51,16 +51,11 @@
 
 ---
 
-## // STATS
-<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&theme=transparent&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" />
-
-</p>
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yummyfiles&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yummyfiles&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=ffffff" />
 
 </p>
 
