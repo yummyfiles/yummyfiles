@@ -1,67 +1,72 @@
-<div style="background-color: #000000; padding: 20px; color: #ffffff;">
+<div align="center">
 
-<p align="center">
-  <img src="github-header-banner.png" />
-</p>
+<img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/github-header-banner.png" width="100%">
 
-<p align="center">
-  <a href="https://git.io/typing-svg" style="display: block;">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&background=00000000&lines=YUMMYFILES+%2F+%2F+DEV;Android+apps;Desktop+apps;Making+cool+tools" 
-      alt="Typing SVG"
-      style="display: block; margin: 0 auto;"
-    />
-  </a>
-</p>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+Cool+Stuff;MusicX+Developer;Making+Free+Software;Always+Working+On+Something" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yummyfiles&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
+
+</div>
 
 ---
 
+# Hey
+
+I'm Justin.
+
+I build apps, websites, tools, and random ideas that somehow turn into real projects.
+
+---
+
+## Current Projects
+
+### MusicX
+Offline music player focused on speed, simplicity, and zero ads.
+
+### ImageX
+Free image editor inspired by professional editing software.
+
+### Other Stuff
+Whatever project I'm obsessed with this week.
+
+---
+
+## Tech Stack
+
 <p align="center">
-
-  <a href="https://github.com/yummyfiles">
-    <img src="https://img.shields.io/badge/GitHub-yummyfiles-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=000000"/>
-  </a>
-
-  <a href="https://www.youtube.com/@TheWolfPack123">
-    <img src="https://img.shields.io/badge/YouTube-Channel-000000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000&color=000000"/>
-  </a>
-
-</p>
-
----
-
-## // ABOUT
-- i make random tools and apps  
-- i like building things from scratch  
-- learning by shipping projects  
-- currently working on ImageX
----
-
-## // WHAT I DO
-- web + app development  
-- UI experiments  
-- small tools that solve random problems  
-
----
-
-## // TECH
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,js,ts,nodejs,react,html,css,git,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,kotlin,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
-
+## GitHub Stats
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yummyfiles&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
 
 </p>
 
 ---
 
-## // VIBE
-> building things for fun, not perfection
+## Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by
 
 </div>
