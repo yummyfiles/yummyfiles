@@ -14,15 +14,13 @@
 
 ---
 
-# Hey
-
-I'm Justin.
+# > ABOUT
 
 I build apps, websites, tools, and random ideas that somehow turn into real projects.
 
 ---
 
-## Current Projects
+## > Current Projects
 
 ### MusicX
 Offline music player focused on speed, simplicity, and zero ads.
@@ -35,7 +33,7 @@ Whatever project I'm obsessed with this week.
 
 ---
 
-## Tech Stack
+## > TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,kotlin,git,github,vscode,androidstudio" />
@@ -43,7 +41,7 @@ Whatever project I'm obsessed with this week.
 
 ---
 
-## GitHub Stats
+## > GITHUB STATS
 
 <p align="center">
 
@@ -55,7 +53,7 @@ Whatever project I'm obsessed with this week.
 
 ---
 
-## Contribution Streak
+## > CONTRIBUTION STREAK
 
 <p align="center">
 
