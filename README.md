@@ -6,9 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+Cool+Stuff;MusicX+Developer;Making+Free+Software;Always+Working+On+Something" />
 
-<br><br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=yummyfiles&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yummyfiles&label=PROFILE%20VIEWS&style=for-the-badge&color=000000&labelColor=000000" />
+
+<img src="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=000000&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&labelColor=000000&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles" />
 
 </div>
 
