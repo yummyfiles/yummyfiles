@@ -15,43 +15,43 @@
 
 ---
 
-# DASHBOARD
-
 <table>
 <tr>
 <td width="60%" valign="top">
 
-# ABOUT
+## a bit about me
 
-I build apps, websites, tools, and whatever ideas I end up sticking with long enough to finish.
+I just build apps, websites, tools, and random ideas when I feel like it.
+
+Most of it turns into actual projects somehow.
 
 ---
 
-## CURRENT PROJECTS
+## what I’m working on
 
-### MusicX
+### MusicX  
 Offline music player. Fast, simple, no ads.
 
-### ImageX
-Basic image editor inspired by real editing tools.
+### ImageX  
+Basic image editor inspired by real tools.
 
-### Other stuff
-Random projects I’m messing with.
+### other stuff  
+whatever I’m messing with at the time.
 
 </td>
 
 <td width="40%" valign="top">
 
-## DEV STATUS
+## what’s going on
 
-- Focus: building things  
-- Mode: switching between projects a lot  
-- Stack: Kotlin, JavaScript, Node  
-- Active: MusicX, ImageX  
+- mostly coding  
+- jumping between projects a lot  
+- using Kotlin, JS, Node  
+- usually working on MusicX or ImageX  
 
 ---
 
-## QUICK STATS
+## quick stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
 
@@ -65,13 +65,11 @@ Random projects I’m messing with.
 
 ---
 
-## LIVE SYSTEM
-
 <table>
 <tr>
 <td width="60%" valign="top">
 
-## NOW PLAYING
+## what I’m listening to
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314ivqii4z7orla4p34rhgvkxxji&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -79,12 +77,12 @@ Random projects I’m messing with.
 
 <td width="40%" valign="top">
 
-## MUSIC INFO
+## music stuff
 
-- Genre is all over the place  
-- Mostly background music while coding  
-- Whatever fits the mood  
-- Usually just something on repeat  
+- changes all the time  
+- usually background noise while coding  
+- sometimes just one song on repeat  
+- depends on mood  
 
 </td>
 </tr>
@@ -92,13 +90,11 @@ Random projects I’m messing with.
 
 ---
 
-## SYSTEM
-
 <table>
 <tr>
 <td width="70%" valign="top">
 
-## CONTRIBUTION STREAK
+## activity
 
 <img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 
@@ -106,12 +102,12 @@ Random projects I’m messing with.
 
 <td width="30%" valign="top">
 
-## STATUS
+## right now
 
-- coding  
-- switching between ideas  
-- sometimes focused, sometimes not  
-- still building stuff anyway  
+- coding something  
+- switching ideas mid-way sometimes  
+- still finishing stuff anyway  
+- nothing too serious  
 
 </td>
 </tr>
@@ -119,7 +115,7 @@ Random projects I’m messing with.
 
 ---
 
-## TECH STACK
+## stuff I use
 
 <p align="center">
 
@@ -140,6 +136,6 @@ Random projects I’m messing with.
 
 <div align="center">
 
-Thanks for stopping by
+thanks for stopping by
 
 </div>
