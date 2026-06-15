@@ -24,31 +24,32 @@ I build apps, websites, tools, and random ideas that somehow turn into real proj
 ## > CURRENT PROJECTS
 
 ### MusicX
+
 Offline music player focused on speed, simplicity, and zero ads.
 
 ### ImageX
+
 Free image editor inspired by professional editing software.
 
 ### Other Stuff
+
 Whatever project I'm obsessed with this week.
 
 ---
 
 ## > TECH STACK
 
-## > TECH STACK
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=vscode&logoColor=007ACC" />
 <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
 </p>
@@ -70,7 +71,6 @@ Whatever project I'm obsessed with this week.
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
 
 </p>
