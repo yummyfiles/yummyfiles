@@ -10,9 +10,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=yummyfiles&label=PROFILE%20VIEWS&style=for-the-badge&color=000000&labelColor=000000" />
 
-<img src="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&color=000000&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&color=000000&labelColor=000000" />
 
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&labelColor=000000&label=TOTAL%20REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&labelColor=000000&label=TOTAL%20REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles" />
 
 </div>
 
