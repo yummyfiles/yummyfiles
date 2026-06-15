@@ -30,10 +30,12 @@ Most of it turns into actual projects somehow.
 ## what I’m working on
 
 ### MusicX  
-Offline music player. Fast, simple, no ads.
+Offline music player made to just load your files and play them without any extra stuff getting in the way.  
+Focus is speed, simplicity, and it just working without thinking about it.
 
 ### ImageX  
-Basic image editor inspired by real tools.
+Lightweight image editor built around basic editing tools.  
+Not trying to replace pro software, just something simple for quick edits and ideas.
 
 ### other stuff  
 whatever I’m messing with at the time.
