@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+Cool+Stuff;MusicX+Developer;Making+Free+Software;Always+Working+On+Something" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+Stuff;MusicX+Dev;Making+random+projects;Always+coding+something" />
 
 <br><br>
 
@@ -15,27 +15,111 @@
 
 ---
 
-# > ABOUT
+# DASHBOARD
 
-I build apps, websites, tools, and random ideas that somehow turn into real projects.
+<table>
+<tr>
+<td width="60%" valign="top">
+
+# ABOUT
+
+I build apps, websites, tools, and whatever ideas I end up sticking with long enough to finish.
 
 ---
 
-## > CURRENT PROJECTS
+## CURRENT PROJECTS
 
 ### MusicX
-
-Offline music player focused on speed, simplicity, and zero ads.
+Offline music player. Fast, simple, no ads.
 
 ### ImageX
+Basic image editor inspired by real editing tools.
 
-Free image editor inspired by professional editing software.
+### Other stuff
+Random projects I’m messing with.
 
-### Other Stuff
+</td>
 
-Whatever project I'm obsessed with this week.
+<td width="40%" valign="top">
+
+## DEV STATUS
+
+- Focus: building things  
+- Mode: switching between projects a lot  
+- Stack: Kotlin, JavaScript, Node  
+- Active: MusicX, ImageX  
 
 ---
+
+## QUICK STATS
+
+<img src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## LIVE SYSTEM
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## NOW PLAYING
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314ivqii4z7orla4p34rhgvkxxji&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+</td>
+
+<td width="40%" valign="top">
+
+## MUSIC INFO
+
+- Genre is all over the place  
+- Mostly background music while coding  
+- Whatever fits the mood  
+- Usually just something on repeat  
+
+</td>
+</tr>
+</table>
+
+---
+
+## SYSTEM
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+## CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+
+</td>
+
+<td width="30%" valign="top">
+
+## STATUS
+
+- coding  
+- switching between ideas  
+- sometimes focused, sometimes not  
+- still building stuff anyway  
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECH STACK
 
 <p align="center">
 
@@ -54,39 +138,8 @@ Whatever project I'm obsessed with this week.
 
 ---
 
-## > CURRENTLY LISTENING TO
-
-<p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314ivqii4z7orla4p34rhgvkxxji&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-
-</p>
-
----
-
-## > GITHUB STATS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
-
-</p>
-
----
-
-## > CONTRIBUTION STREAK
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
-
-</p>
-
----
-
 <div align="center">
 
-### Thanks for stopping by
+Thanks for stopping by
 
 </div>
