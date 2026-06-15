@@ -37,19 +37,17 @@ Whatever project I'm obsessed with this week.
 
 ---
 
-## > TECH STACK
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=vscode&logoColor=007ACC" />
+<img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/vscode-badge.svg" />
 <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
 
 </p>
