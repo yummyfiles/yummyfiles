@@ -122,7 +122,7 @@ whatever I’m messing with at the time.
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
