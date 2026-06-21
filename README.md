@@ -138,6 +138,6 @@ whatever I’m messing with at the time.
 
 <div align="center">
 
-thanks for stopping by
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z5Z521S7ER)
 
 </div>
