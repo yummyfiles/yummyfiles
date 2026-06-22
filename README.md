@@ -35,18 +35,13 @@ lightweight image editor for quick edits and idea testing.
 
 not trying to be pro software, just something that gets the job done fast.
 
+### Klipix
+free video editor, kinda like capcut.
+
+built to keep editing simple and easy without making things feel bloated.
+
 ### everything else
 whatever random thing i started this week.
-
----
-
-## what my dev days usually look like
-
-- mostly coding
-- jumping between projects a lot
-- Kotlin, JavaScript, Node in rotation
-- usually inside MusicX or ImageX
-- changing plans mid-way and still finishing anyway
 
 ---
 
@@ -63,6 +58,16 @@ whatever random thing i started this week.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </p>
+
+---
+
+## what my dev days usually look like
+
+- mostly coding
+- jumping between projects a lot
+- Kotlin, JavaScript, Node in rotation
+- usually inside MusicX, ImageX, or Klipix
+- changing plans mid-way and still finishing anyway
 
 ---
 
