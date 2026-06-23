@@ -100,12 +100,3 @@ sometimes background noise, sometimes one song on repeat for hours.
   <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
----
-
-<div align="center">
-
-if you ever wanna support what i build:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z5Z521S7ER)
-
-</div>
