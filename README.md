@@ -48,14 +48,6 @@ whatever random thing i started this week.
 ## github snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </p>
 
