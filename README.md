@@ -63,17 +63,11 @@ whatever random thing i started this week.
 
 ---
 
-## what i'm listening to
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314ivqii4z7orla4p34rhgvkxxji&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314ivqii4z7orla4p34rhgvkxxji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false">
   </a>
 </p>
-
-music changes all the time.
-
-sometimes background noise, sometimes one song on repeat for hours.
 
 ---
 
