@@ -86,4 +86,5 @@ whatever random thing i started this week.
   <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
 </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z5Z521S7ER)
+<p align="center">
+<a href='https://ko-fi.com/Z5Z521S7ER' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
