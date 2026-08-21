@@ -4,7 +4,7 @@
 For each entry in BADGES, pulls the official brand icon from the
 `simple-icons` npm package (or `@vscode/codicons` for VS Code, which
 simple-icons doesn't ship due to brand guidelines) and embeds it in a
-chamfered (cyberpunk-style) badge: pure-black hexagonal background, thin
+chamfered (cyberpunk-style) badge: pure-black octagonal background, thin
 white outline, and white label text.
 
 Run from anywhere with Python 3 + Node/npm:
@@ -44,14 +44,14 @@ BADGES = [
 # Visual proportions are computed from HEIGHT so badges look consistent
 # regardless of size.  These are all expressed as fractions of HEIGHT.
 BADGE_STROKE_FRAC = 1.5 / 28
-CHAMFER_PX = 9                  # size of the diagonal corner cut
+CHAMFER_FRAC = 7 / 28           # diagonal corner cut, scales with height
 ICON_SIZE_FRAC = 18 / 28
 ICON_PAD_FRAC = 6 / 28
 TEXT_PAD_LEFT_FRAC = 10 / 28
 TEXT_PAD_RIGHT_FRAC = 12 / 28
-FONT_SIZE = 11
+FONT_SIZE_FRAC = 11 / 28        # font scales with height too
 FONT_WEIGHT = 700
-CHAR_W = 7.4
+CHAR_W_FRAC = 7.4 / 11          # avg char width relative to font size
 
 FONT_FAMILY = ", ".join(
     f"'{name}'" if " " in name or "-" in name else name
@@ -104,38 +104,27 @@ def load_icon_inner(slug: str) -> tuple[str, str]:
     return viewbox, inner.strip()
 
 
-def estimate_text_width(label: str) -> float:
-    return len(label) * CHAR_W
+def estimate_text_width(label: str, font_size: float) -> float:
+    return len(label) * CHAR_W_FRAC * font_size
 
 
 def hex_path(x: float, y: float, w: float, h: float, c: float) -> str:
-    """Return an SVG `d` string for a horizontally-stretched hexagon.
+    """Return an SVG `d` string for a clean chamfered rectangle.
 
-    The 4 corners are clipped at 45 degrees by c pixels, AND the top and
-    bottom edges each get a small diagonal cut in the middle for a more
-    cyberpunk/tactical feel.
+    All 4 corners are clipped at 45 degrees by c pixels — a simple
+    octagon, no extra notches.
 
       x, y: top-left of the bounding box
       w, h: width and height of the bounding box
       c:    chamfer (corner cut) in pixels
     """
     c = min(c, w / 2, h / 2)
-    # Cut a small notch on the top and bottom edges too — sized so the
-    # notch is a triangle, smaller than the corner cuts.
-    notch = c * 0.45
-    cx = x + w / 2
     return (
         f"M{x + c},{y} "
-        f"L{cx - notch},{y} "
-        f"L{cx},{y + notch} "
-        f"L{cx + notch},{y} "
         f"L{x + w - c},{y} "
         f"L{x + w},{y + c} "
         f"L{x + w},{y + h - c} "
         f"L{x + w - c},{y + h} "
-        f"L{cx + notch},{y + h} "
-        f"L{cx},{y + h - notch} "
-        f"L{cx - notch},{y + h} "
         f"L{x + c},{y + h} "
         f"L{x},{y + h - c} "
         f"L{x},{y + c} Z"
@@ -149,15 +138,16 @@ def make_svg(label: str, viewbox: str, icon_inner: str,
     text_pad_l = round(TEXT_PAD_LEFT_FRAC * height, 2)
     text_pad_r = round(TEXT_PAD_RIGHT_FRAC * height, 2)
     stroke = round(BADGE_STROKE_FRAC * height, 2)
+    font_size = round(FONT_SIZE_FRAC * height, 1)
 
-    text_w = estimate_text_width(label)
+    text_w = estimate_text_width(label, font_size)
     icon_x = icon_pad
     icon_y = (height - icon_size) / 2
     text_x = icon_x + icon_size + text_pad_l
-    text_y = height / 2 + FONT_SIZE * 0.36
+    text_y = height / 2 + font_size * 0.36
     width = text_x + text_w + text_pad_r
 
-    chamfer = min(CHAMFER_PX, width / 2 - stroke, height / 2 - stroke)
+    chamfer = min(CHAMFER_FRAC * height, width / 2 - stroke, height / 2 - stroke)
     d = hex_path(0, 0, width, height, chamfer)
 
     return textwrap.dedent(f"""\
@@ -176,7 +166,7 @@ def make_svg(label: str, viewbox: str, icon_inner: str,
       </svg>
       <text x="{text_x:.2f}" y="{text_y:.2f}"
             font-family="{FONT_FAMILY}"
-            font-size="{FONT_SIZE}" font-weight="{FONT_WEIGHT}"
+            font-size="{font_size}" font-weight="{FONT_WEIGHT}"
             fill="#ffffff" text-anchor="start">{label}</text>
     </svg>
     """)

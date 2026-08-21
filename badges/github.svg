@@ -3,7 +3,7 @@
      viewBox="0 0 90.40 28"
      role="img" aria-label="GitHub">
   <title>GitHub</title>
-  <path d="M9,0 L41.150000000000006,0 L45.2,4.05 L49.25,0 L81.4,0 L90.4,9 L90.4,19 L81.4,28 L49.25,28 L45.2,23.95 L41.150000000000006,28 L9,28 L0,19 L0,9 Z"
+  <path d="M7.0,0 L83.4,0 L90.4,7.0 L90.4,21.0 L83.4,28 L7.0,28 L0,21.0 L0,7.0 Z"
         fill="#000000" stroke="#ffffff"
         stroke-width="1.5" stroke-linejoin="miter"/>
   <svg x="6.0" y="5.00"
@@ -13,6 +13,6 @@
   </svg>
   <text x="34.00" y="17.96"
         font-family="Inter, 'Helvetica Neue', Helvetica, Arial, 'Segoe UI', 'system-ui', 'sans-serif'"
-        font-size="11" font-weight="700"
+        font-size="11.0" font-weight="700"
         fill="#ffffff" text-anchor="start">GitHub</text>
 </svg>
