@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """Regenerate the monochrome B&W badge SVGs in this directory.
 
-For each tech in BADGES, pulls the official brand icon from the
+For each entry in BADGES, pulls the official brand icon from the
 `simple-icons` npm package (or `@vscode/codicons` for VS Code, which
 simple-icons doesn't ship due to brand guidelines) and embeds it in a
-28px-tall rounded badge with a pure-black background, thin white outline,
-and white label text.
+rounded badge with a pure-black background, thin white outline, and
+white label text.
 
 Run from anywhere with Python 3 + Node/npm:
     python3 _generate.py
 """
 import os
 import re
-import shutil
 import subprocess
 import sys
 import tempfile
@@ -24,28 +23,32 @@ SI_DIR = os.path.join(NODE_MODULES, "simple-icons", "icons")
 VSCODE_SVG = os.path.join(NODE_MODULES, "@vscode", "codicons", "src",
                           "icons", "vscode.svg")
 
-# (slug, label, simple-icons-slug | "__vscode__")
+# (slug, label, simple-icons-slug | "__vscode__", height)
+# height=None uses the default (28).  Used for the support button at 36.
+DEFAULT_HEIGHT = 28
 BADGES = [
-    ("html5",         "HTML5",          "html5"),
-    ("css",           "CSS",            "css"),
-    ("javascript",    "JavaScript",     "javascript"),
-    ("typescript",    "TypeScript",     "typescript"),
-    ("nodejs",        "Node.js",        "nodedotjs"),
-    ("java",          "Java",           "openjdk"),
-    ("kotlin",        "Kotlin",         "kotlin"),
-    ("git",           "Git",            "git"),
-    ("github",        "GitHub",         "github"),
-    ("vscode",        "VS Code",        "__vscode__"),
-    ("androidstudio", "Android Studio", "androidstudio"),
+    ("html5",         "HTML5",          "html5",         None),
+    ("css",           "CSS",            "css",           None),
+    ("javascript",    "JavaScript",     "javascript",    None),
+    ("typescript",    "TypeScript",     "typescript",    None),
+    ("nodejs",        "Node.js",        "nodedotjs",     None),
+    ("java",          "Java",           "openjdk",       None),
+    ("kotlin",        "Kotlin",         "kotlin",        None),
+    ("git",           "Git",            "git",           None),
+    ("github",        "GitHub",         "github",        None),
+    ("vscode",        "VS Code",        "__vscode__",    None),
+    ("androidstudio", "Android Studio", "androidstudio", None),
+    ("kofi",          "Support me",     "kofi",          36),
 ]
 
-HEIGHT = 28
-ICON_SIZE = 18
-ICON_PAD = 6
-BADGE_RADIUS = 8
-BADGE_STROKE = 1.5
-TEXT_PAD_LEFT = 10
-TEXT_PAD_RIGHT = 12
+# Visual proportions are computed from HEIGHT so badges look consistent
+# regardless of size.  These are all expressed as fractions of HEIGHT.
+BADGE_RADIUS_FRAC = 8 / 28
+BADGE_STROKE_FRAC = 1.5 / 28
+ICON_SIZE_FRAC = 18 / 28
+ICON_PAD_FRAC = 6 / 28
+TEXT_PAD_LEFT_FRAC = 10 / 28
+TEXT_PAD_RIGHT_FRAC = 12 / 28
 FONT_SIZE = 11
 FONT_WEIGHT = 700
 CHAR_W = 7.4
@@ -105,27 +108,36 @@ def estimate_text_width(label: str) -> float:
     return len(label) * CHAR_W
 
 
-def make_svg(label: str, viewbox: str, icon_inner: str) -> str:
-    text_w = estimate_text_width(label)
-    icon_x = ICON_PAD
-    icon_y = (HEIGHT - ICON_SIZE) / 2
-    text_x = icon_x + ICON_SIZE + TEXT_PAD_LEFT
-    text_y = HEIGHT / 2 + FONT_SIZE * 0.36
-    width = text_x + text_w + TEXT_PAD_RIGHT
+def make_svg(label: str, viewbox: str, icon_inner: str,
+             height: int = DEFAULT_HEIGHT) -> str:
+    # Scale everything proportionally to the badge's height.
+    icon_size = round(ICON_SIZE_FRAC * height, 2)
+    icon_pad = round(ICON_PAD_FRAC * height, 2)
+    text_pad_l = round(TEXT_PAD_LEFT_FRAC * height, 2)
+    text_pad_r = round(TEXT_PAD_RIGHT_FRAC * height, 2)
+    radius = round(BADGE_RADIUS_FRAC * height, 2)
+    stroke = round(BADGE_STROKE_FRAC * height, 2)
 
-    inset = BADGE_STROKE / 2
+    text_w = estimate_text_width(label)
+    icon_x = icon_pad
+    icon_y = (height - icon_size) / 2
+    text_x = icon_x + icon_size + text_pad_l
+    text_y = height / 2 + FONT_SIZE * 0.36
+    width = text_x + text_w + text_pad_r
+
+    inset = stroke / 2
     return textwrap.dedent(f"""\
     <svg xmlns="http://www.w3.org/2000/svg"
-         width="{width:.2f}" height="{HEIGHT}"
-         viewBox="0 0 {width:.2f} {HEIGHT}"
+         width="{width:.2f}" height="{height}"
+         viewBox="0 0 {width:.2f} {height}"
          role="img" aria-label="{label}">
       <title>{label}</title>
       <rect x="{inset}" y="{inset}"
-            width="{width - 2*inset:.2f}" height="{HEIGHT - 2*inset:.2f}"
-            rx="{BADGE_RADIUS}" ry="{BADGE_RADIUS}"
-            fill="#000000" stroke="#ffffff" stroke-width="{BADGE_STROKE}"/>
+            width="{width - 2*inset:.2f}" height="{height - 2*inset:.2f}"
+            rx="{radius}" ry="{radius}"
+            fill="#000000" stroke="#ffffff" stroke-width="{stroke}"/>
       <svg x="{icon_x}" y="{icon_y:.2f}"
-           width="{ICON_SIZE}" height="{ICON_SIZE}"
+           width="{icon_size}" height="{icon_size}"
            viewBox="{viewbox}" fill="#ffffff">
         {icon_inner}
       </svg>
@@ -139,9 +151,10 @@ def make_svg(label: str, viewbox: str, icon_inner: str) -> str:
 
 def main() -> None:
     ensure_icon_sources()
-    for slug, label, si_slug in BADGES:
+    for slug, label, si_slug, height in BADGES:
         viewbox, inner = load_icon_inner(si_slug)
-        out = make_svg(label, viewbox, inner)
+        out = make_svg(label, viewbox, inner,
+                       height if height is not None else DEFAULT_HEIGHT)
         path = os.path.join(OUT_DIR, f"{slug}.svg")
         with open(path, "w", encoding="utf-8") as f:
             f.write(out)
