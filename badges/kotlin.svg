@@ -3,10 +3,9 @@
      viewBox="0 0 90.40 28"
      role="img" aria-label="Kotlin">
   <title>Kotlin</title>
-  <rect x="0.75" y="0.75"
-        width="88.90" height="26.50"
-        rx="8.0" ry="8.0"
-        fill="#000000" stroke="#ffffff" stroke-width="1.5"/>
+  <path d="M9,0 L41.150000000000006,0 L45.2,4.05 L49.25,0 L81.4,0 L90.4,9 L90.4,19 L81.4,28 L49.25,28 L45.2,23.95 L41.150000000000006,28 L9,28 L0,19 L0,9 Z"
+        fill="#000000" stroke="#ffffff"
+        stroke-width="1.5" stroke-linejoin="miter"/>
   <svg x="6.0" y="5.00"
        width="18.0" height="18.0"
        viewBox="0 0 24 24" fill="#ffffff">

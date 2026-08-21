@@ -66,7 +66,7 @@
 <br>
 
 <a href="https://ko-fi.com/Z5Z521S7ER" target="_blank">
-  <img height="36" style="border:0px;height:36px;" src="badges/kofi.svg" alt="Support me on Ko-fi" />
+  <img height="44" style="border:0px;height:44px;" src="badges/kofi.svg" alt="Support me on Ko-fi" />
 </a>
 
 </div>

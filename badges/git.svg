@@ -3,10 +3,9 @@
      viewBox="0 0 68.20 28"
      role="img" aria-label="Git">
   <title>Git</title>
-  <rect x="0.75" y="0.75"
-        width="66.70" height="26.50"
-        rx="8.0" ry="8.0"
-        fill="#000000" stroke="#ffffff" stroke-width="1.5"/>
+  <path d="M9,0 L30.05,0 L34.1,4.05 L38.15,0 L59.2,0 L68.2,9 L68.2,19 L59.2,28 L38.15,28 L34.1,23.95 L30.05,28 L9,28 L0,19 L0,9 Z"
+        fill="#000000" stroke="#ffffff"
+        stroke-width="1.5" stroke-linejoin="miter"/>
   <svg x="6.0" y="5.00"
        width="18.0" height="18.0"
        viewBox="0 0 24 24" fill="#ffffff">

@@ -3,10 +3,9 @@
      viewBox="0 0 97.80 28"
      role="img" aria-label="Node.js">
   <title>Node.js</title>
-  <rect x="0.75" y="0.75"
-        width="96.30" height="26.50"
-        rx="8.0" ry="8.0"
-        fill="#000000" stroke="#ffffff" stroke-width="1.5"/>
+  <path d="M9,0 L44.85000000000001,0 L48.900000000000006,4.05 L52.95,0 L88.80000000000001,0 L97.80000000000001,9 L97.80000000000001,19 L88.80000000000001,28 L52.95,28 L48.900000000000006,23.95 L44.85000000000001,28 L9,28 L0,19 L0,9 Z"
+        fill="#000000" stroke="#ffffff"
+        stroke-width="1.5" stroke-linejoin="miter"/>
   <svg x="6.0" y="5.00"
        width="18.0" height="18.0"
        viewBox="0 0 24 24" fill="#ffffff">

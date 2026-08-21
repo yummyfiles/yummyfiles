@@ -4,8 +4,8 @@
 For each entry in BADGES, pulls the official brand icon from the
 `simple-icons` npm package (or `@vscode/codicons` for VS Code, which
 simple-icons doesn't ship due to brand guidelines) and embeds it in a
-rounded badge with a pure-black background, thin white outline, and
-white label text.
+chamfered (cyberpunk-style) badge: pure-black hexagonal background, thin
+white outline, and white label text.
 
 Run from anywhere with Python 3 + Node/npm:
     python3 _generate.py
@@ -24,7 +24,7 @@ VSCODE_SVG = os.path.join(NODE_MODULES, "@vscode", "codicons", "src",
                           "icons", "vscode.svg")
 
 # (slug, label, simple-icons-slug | "__vscode__", height)
-# height=None uses the default (28).  Used for the support button at 36.
+# height=None uses the default (28).  Used for the support button.
 DEFAULT_HEIGHT = 28
 BADGES = [
     ("html5",         "HTML5",          "html5",         None),
@@ -38,13 +38,13 @@ BADGES = [
     ("github",        "GitHub",         "github",        None),
     ("vscode",        "VS Code",        "__vscode__",    None),
     ("androidstudio", "Android Studio", "androidstudio", None),
-    ("kofi",          "Support me",     "kofi",          36),
+    ("kofi",          "Support me",     "kofi",          44),
 ]
 
 # Visual proportions are computed from HEIGHT so badges look consistent
 # regardless of size.  These are all expressed as fractions of HEIGHT.
-BADGE_RADIUS_FRAC = 8 / 28
 BADGE_STROKE_FRAC = 1.5 / 28
+CHAMFER_PX = 9                  # size of the diagonal corner cut
 ICON_SIZE_FRAC = 18 / 28
 ICON_PAD_FRAC = 6 / 28
 TEXT_PAD_LEFT_FRAC = 10 / 28
@@ -108,14 +108,46 @@ def estimate_text_width(label: str) -> float:
     return len(label) * CHAR_W
 
 
+def hex_path(x: float, y: float, w: float, h: float, c: float) -> str:
+    """Return an SVG `d` string for a horizontally-stretched hexagon.
+
+    The 4 corners are clipped at 45 degrees by c pixels, AND the top and
+    bottom edges each get a small diagonal cut in the middle for a more
+    cyberpunk/tactical feel.
+
+      x, y: top-left of the bounding box
+      w, h: width and height of the bounding box
+      c:    chamfer (corner cut) in pixels
+    """
+    c = min(c, w / 2, h / 2)
+    # Cut a small notch on the top and bottom edges too — sized so the
+    # notch is a triangle, smaller than the corner cuts.
+    notch = c * 0.45
+    cx = x + w / 2
+    return (
+        f"M{x + c},{y} "
+        f"L{cx - notch},{y} "
+        f"L{cx},{y + notch} "
+        f"L{cx + notch},{y} "
+        f"L{x + w - c},{y} "
+        f"L{x + w},{y + c} "
+        f"L{x + w},{y + h - c} "
+        f"L{x + w - c},{y + h} "
+        f"L{cx + notch},{y + h} "
+        f"L{cx},{y + h - notch} "
+        f"L{cx - notch},{y + h} "
+        f"L{x + c},{y + h} "
+        f"L{x},{y + h - c} "
+        f"L{x},{y + c} Z"
+    )
+
+
 def make_svg(label: str, viewbox: str, icon_inner: str,
              height: int = DEFAULT_HEIGHT) -> str:
-    # Scale everything proportionally to the badge's height.
     icon_size = round(ICON_SIZE_FRAC * height, 2)
     icon_pad = round(ICON_PAD_FRAC * height, 2)
     text_pad_l = round(TEXT_PAD_LEFT_FRAC * height, 2)
     text_pad_r = round(TEXT_PAD_RIGHT_FRAC * height, 2)
-    radius = round(BADGE_RADIUS_FRAC * height, 2)
     stroke = round(BADGE_STROKE_FRAC * height, 2)
 
     text_w = estimate_text_width(label)
@@ -125,17 +157,18 @@ def make_svg(label: str, viewbox: str, icon_inner: str,
     text_y = height / 2 + FONT_SIZE * 0.36
     width = text_x + text_w + text_pad_r
 
-    inset = stroke / 2
+    chamfer = min(CHAMFER_PX, width / 2 - stroke, height / 2 - stroke)
+    d = hex_path(0, 0, width, height, chamfer)
+
     return textwrap.dedent(f"""\
     <svg xmlns="http://www.w3.org/2000/svg"
          width="{width:.2f}" height="{height}"
          viewBox="0 0 {width:.2f} {height}"
          role="img" aria-label="{label}">
       <title>{label}</title>
-      <rect x="{inset}" y="{inset}"
-            width="{width - 2*inset:.2f}" height="{height - 2*inset:.2f}"
-            rx="{radius}" ry="{radius}"
-            fill="#000000" stroke="#ffffff" stroke-width="{stroke}"/>
+      <path d="{d}"
+            fill="#000000" stroke="#ffffff"
+            stroke-width="{stroke}" stroke-linejoin="miter"/>
       <svg x="{icon_x}" y="{icon_y:.2f}"
            width="{icon_size}" height="{icon_size}"
            viewBox="{viewbox}" fill="#ffffff">
