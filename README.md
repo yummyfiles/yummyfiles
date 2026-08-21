@@ -1,14 +1,4 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/github-header-banner.png" width="100%" alt="Header Banner" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=YUMMYFILES+%2F%2F+DEV;Building+stuff;MusicX+Dev;Always+coding+something" alt="Typing SVG" />
-
-<br><br>
-
-```text
+<pre align="center">
 ┌──────────────────────────────────────────────────────────────┐
 │                      YUMMYFILES // DEV                       │
 │                                                              │
@@ -49,3 +39,4 @@
 │  * changing architectural plans mid-way and finishing anyway │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+</pre>
