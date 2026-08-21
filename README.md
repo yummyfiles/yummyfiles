@@ -19,15 +19,13 @@
 > 
 > * apps / little tools / websites / random side quests  
 > * i change projects like every week lol  
-> * usually somewhere between "idea" and "why is this working"  
 
 ---
 
 ### **// WHAT I'M UP TO**
 
-> * just coding and making stuff  
-> * been bouncing between **MusicX**, **ImageX**, and **Klipix**  
-> * halfway thru a rewrite? finishing it anyway lol  
+> * just coding and making stuff
+> * playing video games sometimes
 
 ---
 
