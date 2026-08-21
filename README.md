@@ -65,17 +65,17 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/vscode-badge.svg" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="badges/html5.svg" alt="HTML5" />
+  <img src="badges/css.svg" alt="CSS" />
+  <img src="badges/javascript.svg" alt="JavaScript" />
+  <img src="badges/typescript.svg" alt="TypeScript" />
+  <img src="badges/nodejs.svg" alt="Node.js" />
+  <img src="badges/java.svg" alt="Java" />
+  <img src="badges/kotlin.svg" alt="Kotlin" />
+  <img src="badges/git.svg" alt="Git" />
+  <img src="badges/github.svg" alt="GitHub" />
+  <img src="badges/vscode.svg" alt="VS Code" />
+  <img src="badges/androidstudio.svg" alt="Android Studio" />
 </p>
 
 <br>
