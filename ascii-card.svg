@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="520" viewBox="0 0 600 520" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" fill="none">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%; margin: 0; padding: 0;">
-      <pre style="font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 11px; line-height: 14px; color: #ffffff; background: transparent; margin: 0; padding: 0; border: none; white-space: pre;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; justify-content: center; align-items: flex-start; width: 100%; height: 100%; margin: 0; padding: 20px 0; box-sizing: border-box;">
+      <pre style="font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 11px; line-height: 15px; color: #ffffff; background: transparent; margin: 0; padding: 0; border: none; white-space: pre;">
 ┌──────────────────────────────────────────────────────────────┐
 │                      YUMMYFILES // DEV                       │
 │                                                              │
