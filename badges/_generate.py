@@ -43,7 +43,7 @@ BADGES = [
 
 # Visual proportions are computed from HEIGHT so badges look consistent
 # regardless of size.  These are all expressed as fractions of HEIGHT.
-BADGE_STROKE_FRAC = 1.5 / 28
+BADGE_STROKE_FRAC = 2.5 / 28
 CHAMFER_FRAC = 7 / 28           # diagonal corner cut, scales with height
 ICON_SIZE_FRAC = 18 / 28
 ICON_PAD_FRAC = 6 / 28
