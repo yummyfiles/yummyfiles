@@ -23,7 +23,7 @@
 
 ---
 
-### **// ACTIVE PROJECTS**
+### **// PROJECTS**
 
 > `[01]` **MusicX** ── offline music player (fast, no bloat)  
 > `[02]` **ImageX** ── lightweight image editor & canvas tool  
@@ -32,15 +32,15 @@
 
 ---
 
-### **// DAILY DEV LOOP**
+### **// WHAT I'M UP TO**
 
-> * mostly coding & shipping rapid builds  
-> * heavy rotation inside **MusicX**, **ImageX**, and **Klipix**  
-> * changing architectural plans mid-way and finishing anyway  
+> * mostly coding and making things  
+> * currently playing with **MusicX**, **ImageX**, and **Klipix**  
+> * halfway through a redesign? finishing it anyway  
 
 ---
 
-### **// TELEMETRY**
+### **// STATS & MUSIC**
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-### **// STACK & TOOLBOX**
+### **// STACK**
 
 <div align="center">
 
