@@ -13,38 +13,40 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=000000&labelColor=000000&label=TOTAL%20REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles" alt="Total Repos" />
 </p>
 
+</div>
+
 ---
 
-### **`// ABOUT`**
+### **// ABOUT**
 
 > **building things that probably didn't need to exist**  
 > 
-> `>` apps / tools / websites / experiments  
-> `>` constantly switching projects  
-> `>` currently somewhere between "idea" and "why does this work"
+> * apps / tools / websites / experiments  
+> * constantly switching projects  
+> * currently somewhere between "idea" and "why does this work"  
 
 ---
 
-### **`// ACTIVE PROJECTS`**
+### **// ACTIVE PROJECTS**
 
 > `[01]` **MusicX** ── offline music player (fast, no bloat)  
 > `[02]` **ImageX** ── lightweight image editor & canvas tool  
 > `[03]` **Klipix** ── clean, simple timeline video editor  
-> `[04]` **Labs** ── random UI themes, scripts & canvas games
+> `[04]` **Labs** ── random UI themes, scripts & canvas games  
 
 ---
 
-### **`// DAILY DEV LOOP`**
+### **// DAILY DEV LOOP**
 
-> - mostly coding & shipping rapid builds
-> - heavy rotation inside **MusicX**, **ImageX**, and **Klipix**
-> - changing architectural plans mid-way and finishing anyway
+> * mostly coding & shipping rapid builds  
+> * heavy rotation inside **MusicX**, **ImageX**, and **Klipix**  
+> * changing architectural plans mid-way and finishing anyway  
 
 ---
 
-### **`// TELEMETRY`**
+### **// TELEMETRY**
 
-<br>
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
@@ -54,11 +56,13 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314ivqii4z7orla4p34rhgvkxxji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false" alt="Spotify Status" />
 </a>
 
+</div>
+
 ---
 
-### **`// STACK & TOOLBOX`**
+### **// STACK & TOOLBOX**
 
-<br>
+<div align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -77,7 +81,7 @@
 <br>
 
 <a href="https://ko-fi.com/Z5Z521S7ER" target="_blank">
-  <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" border="0" alt="Buy Me a Coffee at ko-fi.com" />
+  <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" alt="Buy Me a Coffee at ko-fi.com" />
 </a>
 
 </div>
