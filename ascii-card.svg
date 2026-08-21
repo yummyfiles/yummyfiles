@@ -1,72 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="660" viewBox="0 0 580 660" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="520" viewBox="0 0 600 520" fill="none">
   <style>
-    .ascii {
-      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
-      font-size: 12px;
-      fill: #ffffff;
-      white-space: pre;
-    }
-    .box-line {
-      stroke: #ffffff;
-      stroke-width: 1.25;
-      shape-rendering: crispEdges;
+    .txt { 
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; 
+      font-size: 11px; 
+      fill: #ffffff; 
+      white-space: pre; 
     }
   </style>
-
-  <!-- Outer Border -->
-  <rect x="20" y="20" width="540" height="620" class="box-line" fill="none" />
-
-  <!-- Horizontal Dividers -->
-  <line x1="20" y1="100" x2="560" y2="100" class="box-line" />
-  <line x1="20" y1="240" x2="560" y2="240" class="box-line" />
-  <line x1="20" y1="375" x2="560" y2="375" class="box-line" />
-  <line x1="20" y1="520" x2="560" y2="520" class="box-line" />
-
-  <!-- Vertical Column Divider -->
-  <line x1="260" y1="375" x2="260" y2="520" class="box-line" />
-
-  <!-- Card Content -->
-  <text class="ascii" xml:space="preserve">
-    <!-- Header -->
-    <tspan x="290" y="55" text-anchor="middle">YUMMYFILES // DEV</tspan>
-    <tspan x="290" y="80" text-anchor="middle">building things that probably didn't need to exist</tspan>
-
-    <!-- About Section -->
-    <tspan x="40" y="130">&gt; ABOUT</tspan>
-    <tspan x="40" y="145">───────</tspan>
-    <tspan x="40" y="170">apps / tools / websites / experiments</tspan>
-    <tspan x="40" y="190">constantly switching projects</tspan>
-    <tspan x="40" y="210">currently somewhere between "idea" and "why does this work"</tspan>
-
-    <!-- Active Projects Section -->
-    <tspan x="40" y="270">&gt; ACTIVE PROJECTS</tspan>
-    <tspan x="40" y="285">─────────────────</tspan>
-    <tspan x="40" y="310">[01] MusicX  ──  offline music player (fast, no bloat)</tspan>
-    <tspan x="40" y="330">[02] ImageX  ──  lightweight image editor &amp; canvas tool</tspan>
-    <tspan x="40" y="350">[03] Klipix  ──  clean, simple timeline video editor</tspan>
-    <tspan x="40" y="370">[04] Labs    ──  random UI themes, scripts &amp; canvas games</tspan>
-
-    <!-- Column: Languages -->
-    <tspan x="40" y="405">&gt; LANGUAGES</tspan>
-    <tspan x="40" y="420">───────────</tspan>
-    <tspan x="40" y="445">Kotlin</tspan>
-    <tspan x="40" y="465">JavaScript</tspan>
-    <tspan x="40" y="485">TypeScript</tspan>
-    <tspan x="40" y="505">HTML5 / CSS3</tspan>
-
-    <!-- Column: Toolbox -->
-    <tspan x="280" y="405">&gt; TOOLBOX</tspan>
-    <tspan x="280" y="420">─────────</tspan>
-    <tspan x="280" y="445">VS Code</tspan>
-    <tspan x="280" y="465">Android Studio</tspan>
-    <tspan x="280" y="485">Git / GitHub</tspan>
-    <tspan x="280" y="505">Node.js</tspan>
-
-    <!-- Daily Loop Section -->
-    <tspan x="40" y="550">&gt; DAILY DEV LOOP</tspan>
-    <tspan x="40" y="565">────────────────</tspan>
-    <tspan x="40" y="590">* mostly coding &amp; shipping rapid builds</tspan>
-    <tspan x="40" y="610">* heavy rotation inside MusicX, ImageX, and Klipix</tspan>
-    <tspan x="40" y="630">* changing architectural plans mid-way and finishing anyway</tspan>
+  <text x="50%" y="30" text-anchor="middle" class="txt">
+    <tspan x="50%" dy="0">┌──────────────────────────────────────────────────────────────┐</tspan>
+    <tspan x="50%" dy="14">│                      YUMMYFILES // DEV                       │</tspan>
+    <tspan x="50%" dy="14">│                                                              │</tspan>
+    <tspan x="50%" dy="14">│  building things that probably didn't need to exist          │</tspan>
+    <tspan x="50%" dy="14">├──────────────────────────────────────────────────────────────┤</tspan>
+    <tspan x="50%" dy="14">│                                                              │</tspan>
+    <tspan x="50%" dy="14">│  > ABOUT                                                     │</tspan>
+    <tspan x="50%" dy="14">│  ───────                                                     │</tspan>
+    <tspan x="50%" dy="14">│  apps / tools / websites / experiments                       │</tspan>
+    <tspan x="50%" dy="14">│  constantly switching projects                               │</tspan>
+    <tspan x="50%" dy="14">│  currently somewhere between "idea" and "why does this work" │</tspan>
+    <tspan x="50%" dy="14">│                                                              │</tspan>
+    <tspan x="50%" dy="14">├──────────────────────────────────────────────────────────────┤</tspan>
+    <tspan x="50%" dy="14">│                                                              │</tspan>
+    <tspan x="50%" dy="14">│  > ACTIVE PROJECTS                                           │</tspan>
+    <tspan x="50%" dy="14">│  ─────────────────                                           │</tspan>
+    <tspan x="50%" dy="14">│  [01] MusicX  ──  offline music player (fast, no bloat)      │</tspan>
+    <tspan x="50%" dy="14">│  [02] ImageX  ──  lightweight image editor &amp; canvas tool     │</tspan>
+    <tspan x="50%" dy="14">│  [03] Klipix  ──  clean, simple timeline video editor        │</tspan>
+    <tspan x="50%" dy="14">│  [04] Labs    ──  random UI themes, scripts &amp; canvas games   │</tspan>
+    <tspan x="50%" dy="14">│                                                              │</tspan>
+    <tspan x="50%" dy="14">├───────────────────────┬──────────────────────────────────────┤</tspan>
+    <tspan x="50%" dy="14">│                       │                                      │</tspan>
+    <tspan x="50%" dy="14">│  > LANGUAGES          │  > TOOLBOX                           │</tspan>
+    <tspan x="50%" dy="14">│  ───────────          │  ─────────                           │</tspan>
+    <tspan x="50%" dy="14">│  Kotlin               │  VS Code                             │</tspan>
+    <tspan x="50%" dy="14">│  JavaScript           │  Android Studio                      │</tspan>
+    <tspan x="50%" dy="14">│  TypeScript           │  Git / GitHub                        │</tspan>
+    <tspan x="50%" dy="14">│  Java                 │  Node.js                             │</tspan>
+    <tspan x="50%" dy="14">│  HTML5 / CSS3         │  Spotify API                         │</tspan>
+    <tspan x="50%" dy="14">│                       │                                      │</tspan>
+    <tspan x="50%" dy="14">├───────────────────────┴──────────────────────────────────────┤</tspan>
+    <tspan x="50%" dy="14">│                                                              │</tspan>
+    <tspan x="50%" dy="14">│  > DAILY DEV LOOP                                            │</tspan>
+    <tspan x="50%" dy="14">│  ────────────────                                            │</tspan>
+    <tspan x="50%" dy="14">│  * mostly coding &amp; shipping rapid builds                     │</tspan>
+    <tspan x="50%" dy="14">│  * heavy rotation inside MusicX, ImageX, and Klipix          │</tspan>
+    <tspan x="50%" dy="14">│  * changing architectural plans mid-way and finishing anyway │</tspan>
+    <tspan x="50%" dy="14">│                                                              │</tspan>
+    <tspan x="50%" dy="14">└──────────────────────────────────────────────────────────────┘</tspan>
   </text>
 </svg>
