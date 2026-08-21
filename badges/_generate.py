@@ -119,15 +119,16 @@ def hex_path(x: float, y: float, w: float, h: float, c: float) -> str:
       c:    chamfer (corner cut) in pixels
     """
     c = min(c, w / 2, h / 2)
+    r = lambda v: f"{round(v, 2):g}"
     return (
-        f"M{x + c},{y} "
-        f"L{x + w - c},{y} "
-        f"L{x + w},{y + c} "
-        f"L{x + w},{y + h - c} "
-        f"L{x + w - c},{y + h} "
-        f"L{x + c},{y + h} "
-        f"L{x},{y + h - c} "
-        f"L{x},{y + c} Z"
+        f"M{r(x + c)},{r(y)} "
+        f"L{r(x + w - c)},{r(y)} "
+        f"L{r(x + w)},{r(y + c)} "
+        f"L{r(x + w)},{r(y + h - c)} "
+        f"L{r(x + w - c)},{r(y + h)} "
+        f"L{r(x + c)},{r(y + h)} "
+        f"L{r(x)},{r(y + h - c)} "
+        f"L{r(x)},{r(y + c)} Z"
     )
 
 
@@ -147,8 +148,12 @@ def make_svg(label: str, viewbox: str, icon_inner: str,
     text_y = height / 2 + font_size * 0.36
     width = text_x + text_w + text_pad_r
 
+    # Inset the outline by half the stroke width so the stroke sits fully
+    # inside the canvas — otherwise it gets clipped at the edges and the
+    # left/right lines render thinner than the top/bottom ones.
+    inset = stroke / 2
     chamfer = min(CHAMFER_FRAC * height, width / 2 - stroke, height / 2 - stroke)
-    d = hex_path(0, 0, width, height, chamfer)
+    d = hex_path(inset, inset, width - stroke, height - stroke, chamfer)
 
     return textwrap.dedent(f"""\
     <svg xmlns="http://www.w3.org/2000/svg"
