@@ -50,23 +50,23 @@
 <div align="center">
 
 <p align="center">
-  <img src="badges/html5.svg" alt="HTML5" />
-  <img src="badges/css.svg" alt="CSS" />
-  <img src="badges/javascript.svg" alt="JavaScript" />
-  <img src="badges/typescript.svg" alt="TypeScript" />
-  <img src="badges/nodejs.svg" alt="Node.js" />
-  <img src="badges/java.svg" alt="Java" />
-  <img src="badges/kotlin.svg" alt="Kotlin" />
-  <img src="badges/git.svg" alt="Git" />
-  <img src="badges/github.svg" alt="GitHub" />
-  <img src="badges/vscode.svg" alt="VS Code" />
-  <img src="badges/androidstudio.svg" alt="Android Studio" />
+  <img src="badges/html5.svg?v=2" alt="HTML5" />
+  <img src="badges/css.svg?v=2" alt="CSS" />
+  <img src="badges/javascript.svg?v=2" alt="JavaScript" />
+  <img src="badges/typescript.svg?v=2" alt="TypeScript" />
+  <img src="badges/nodejs.svg?v=2" alt="Node.js" />
+  <img src="badges/java.svg?v=2" alt="Java" />
+  <img src="badges/kotlin.svg?v=2" alt="Kotlin" />
+  <img src="badges/git.svg?v=2" alt="Git" />
+  <img src="badges/github.svg?v=2" alt="GitHub" />
+  <img src="badges/vscode.svg?v=2" alt="VS Code" />
+  <img src="badges/androidstudio.svg?v=2" alt="Android Studio" />
 </p>
 
 <br>
 
 <a href="https://ko-fi.com/Z5Z521S7ER" target="_blank">
-  <img height="44" style="border:0px;height:44px;" src="badges/kofi.svg" alt="Support me on Ko-fi" />
+  <img height="44" style="border:0px;height:44px;" src="badges/kofi.svg?v=2" alt="Support me on Ko-fi" />
 </a>
 
 </div>
