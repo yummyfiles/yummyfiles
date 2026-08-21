@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=YUMMYFILES+%2F%2F+DEV;Building+stuff;MusicX+Dev;Always+coding+something" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=hi%2C%20i%20make%20stuff;MusicX%20stuff%20mostly;just%20always%20coding%20something;%3C3" alt="Typing SVG" />
 
 <br><br>
 
@@ -15,28 +15,28 @@
 
 ### **// ABOUT**
 
-> **building things that probably didn't need to exist**  
+> **i just make stuff honestly**  
 > 
-> * apps / tools / websites / experiments  
-> * constantly switching projects  
-> * currently somewhere between "idea" and "why does this work"  
+> * apps / little tools / websites / random side quests  
+> * i change projects like every week lol  
+> * usually somewhere between "idea" and "why is this working"  
 
 ---
 
 ### **// PROJECTS**
 
-> `[01]` **MusicX** ── offline music player (fast, no bloat)  
-> `[02]` **ImageX** ── lightweight image editor & canvas tool  
-> `[03]` **Klipix** ── clean, simple timeline video editor  
-> `[04]` **Labs** ── random UI themes, scripts & canvas games  
+> `[01]` **MusicX** ── offline music player, no bs  
+> `[02]` **ImageX** ── small image editor, kinda like a canvas thing  
+> `[03]` **Klipix** ── simple timeline video editor, still wip  
+> `[04]` **Labs** ── random themes, scripts, tiny games, whatever  
 
 ---
 
 ### **// WHAT I'M UP TO**
 
-> * mostly coding and making things  
-> * currently playing with **MusicX**, **ImageX**, and **Klipix**  
-> * halfway through a redesign? finishing it anyway  
+> * just coding and making stuff  
+> * been bouncing between **MusicX**, **ImageX**, and **Klipix**  
+> * halfway thru a rewrite? finishing it anyway lol  
 
 ---
 
