@@ -16,7 +16,7 @@
 ### **// ABOUT**
 
 > **i just make stuff honestly**  
-> 
+>
 > * apps / little tools / websites / random side quests  
 > * i change projects like every week lol  
 
@@ -70,3 +70,11 @@
 </a>
 
 </div>
+
+---
+
+### **// BTW**
+
+> **check out [ChatSec](CHATSEC_URL)** — a Discord alternative made by another indie dev.
+>
+> i've been testing it out lately and it's pretty cool lol
