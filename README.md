@@ -75,6 +75,6 @@
 
 ### **// BTW**
 
-> **check out [ChatSec](chatsec.pl)** — a Discord alternative made by my friend.
+> **check out [ChatSec](https://chatsec.pl)** — a Discord alternative made by my friend.
 >
 > i've been testing it out lately and it's pretty cool lol
