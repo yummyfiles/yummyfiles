@@ -15,10 +15,10 @@
 
 ### **// ABOUT**
 
-> **i just make stuff honestly**  
+> **i just make stuff honestly**
 >
-> * apps / little tools / websites / random side quests  
-> * i change projects like every week lol  
+> * apps / little tools / websites / random side quests
+> * i change projects like every week lol
 
 ---
 
@@ -78,3 +78,11 @@
 > **check out [ChatSec](https://chatsec.pl)** — a Discord alternative made by my friend.
 >
 > i've been testing it out lately and it's pretty cool lol
+
+<br>
+
+<div align="center">
+
+<sub><i>psst... i use arch btw (👁 _ 👁)</i></sub>
+
+</div>
