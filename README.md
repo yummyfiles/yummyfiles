@@ -70,7 +70,13 @@
 
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-light.svg">
+  <img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-light.svg" alt="VS Code" />
+</picture>
+
 <img src="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 
 <br><br>
@@ -81,10 +87,22 @@
 
 <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
 <img src="https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" />
-<img src="https://img.shields.io/badge/Waybar-000000?style=for-the-badge&logo=waybar&logoColor=white" alt="Waybar" />
-<img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white" alt="Kitty" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-light.svg">
+  <img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-light.svg" alt="Waybar" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-light.svg">
+  <img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-light.svg" alt="Kitty" />
+</picture>
+
 <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 
+</div>
 
 ---
 
