@@ -83,6 +83,6 @@
 
 <div align="center">
 
-<sub><i>psst... i use arch btw (👁 _ 👁)</i></sub>
+<sub><i>psst... i use arch btw </i>(👁 _ 👁)</sub>
 
 </div>
