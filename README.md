@@ -158,6 +158,6 @@ i've been testing it out lately and it's pretty cool lol
 
 <div align="center">
 
-<sub><i>psst... i use arch btw</i> (👁  _  👁)</sub>
+<sub><em>psst... i use arch btw</em></sub>  `(👁    _    👁)`
 
 </div>
