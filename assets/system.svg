@@ -12,7 +12,4 @@
 <text x="55" y="152">os</text><text x="225" y="152">linux</text>
 <text x="55" y="182">desktop</text><text x="225" y="182">hyprland</text>
 </g>
-<path d="M25 20H155" class="b" stroke-width="2" stroke-dasharray="14 8">
-<animate attributeName="stroke-dashoffset" from="0" to="-22" dur=".7s" repeatCount="indefinite"/>
-</path>
 </svg>
