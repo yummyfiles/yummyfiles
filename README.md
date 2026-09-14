@@ -106,7 +106,7 @@
 
 <br>
 
-<div align="center"><a href="https://ko-fi.com/Z5Z521S7ER" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Ko--fi-FFFFFF?style=for-the-badge&logo=ko-fi&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Ko--fi-FFFFFF?style=for-the-badge&logo=ko-fi&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Ko-fi" /></picture></a></div>
+<div align="center"><a href="https://ko-fi.com/Z5Z521S7ER" target="_blank"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/kofi-badge.svg?v=2" alt="Support me on Ko-fi" /></a></div>
 
 <br>
 
