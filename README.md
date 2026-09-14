@@ -46,17 +46,7 @@
 
 ### // SYSTEM
 
-<pre>
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  status      coding                                      │
-│  interests   apps / tools / websites / FOSS             │
-│  hobby       breaking things and fixing them             │
-│  os          linux                                       │
-│  desktop     hyprland                                   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-</pre>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/system.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/system.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/system.svg" alt="System information" width="100%" /></picture>
 
 <div align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
