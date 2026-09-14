@@ -34,7 +34,7 @@
 
 ### // FEATURED REPOS
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg" alt="Featured repository carousel" width="100%" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg?v=3"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg?v=3"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg?v=3" alt="Featured repository carousel" width="100%" /></picture>
 
 <br>
 
