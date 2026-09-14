@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
+<style>
+.t{fill:#fff}.b{stroke:#fff}
+@media(prefers-color-scheme:light){.t{fill:#000}.b{stroke:#000}}
+</style>
+<rect width="1000" height="190" fill="transparent"/>
+<rect x="140" y="15" width="720" height="160" rx="2" fill="none" class="b" stroke-width="1" opacity=".28"/>
+<g class="t" font-family="Share Tech Mono,monospace" font-size="15">
+<text x="205" y="50">status</text><text x="335" y="50">coding</text>
+<text x="205" y="75">interests</text><text x="335" y="75">apps / tools / websites / FOSS</text>
+<text x="205" y="100">hobby</text><text x="335" y="100">breaking things and fixing them</text>
+<text x="205" y="125">os</text><text x="335" y="125">linux</text>
+<text x="205" y="150">desktop</text><text x="335" y="150">hyprland</text>
+</g>
+<path d="M140 15H250" class="b" stroke-width="2" stroke-dasharray="14 8">
+<animate attributeName="stroke-dashoffset" from="0" to="-22" dur=".7s" repeatCount="indefinite"/>
+</path>
+</svg>
