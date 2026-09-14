@@ -38,6 +38,22 @@
 
 <div align="center">
 
+### // FEATURED REPOS
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/repo-carousel.svg" alt="Featured repository carousel" width="100%" /></picture>
+
+<br>
+
+<a href="https://github.com/yummyfiles/MusicX">MusicX</a> · <a href="https://github.com/yummyfiles/Klipix">Klipix</a> · <a href="https://github.com/yummyfiles/Static">Static</a> · <a href="https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio">StylerX</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ### // SYSTEM
 
 </div>
