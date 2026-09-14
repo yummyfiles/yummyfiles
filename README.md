@@ -1,9 +1,5 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-logo.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-logo.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-logo.svg" alt="YUMMYFILES // DEV" width="90%" /></picture>
-
-<br>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=32&duration=3900&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Indie+developer;FOSS+%2F%2F+side+quests;probably+breaking+something;probably+up+at+2am+ricing+linux"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=32&duration=3900&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Indie+developer;FOSS+%2F%2F+side+quests;probably+breaking+something;probably+up+at+2am+ricing+linux"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=32&duration=3900&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Indie+developer;FOSS+%2F%2F+side+quests;probably+breaking+something;probably+up+at+2am+ricing+linux" alt="Typing SVG" /></picture>
 
 <br>
@@ -18,7 +14,7 @@
 
 </div>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
 <div align="center">
 
@@ -34,7 +30,7 @@
 
 <br>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
 <div align="center">
 
@@ -46,11 +42,11 @@
 
 <br>
 
-<a href="https://github.com/yummyfiles/MusicX">MusicX</a> · <a href="https://github.com/yummyfiles/Klipix">Klipix</a> · <a href="https://github.com/yummyfiles/Static">Static</a> · <a href="https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio">StylerX</a>
+<a href="https://github.com/yummyfiles/MusicX">MusicX</a> · <a href="https://github.com/yummyfiles/Klipix">Klipix</a> · <a href="https://github.com/yummyfiles/Static">Static</a> · <a href="https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio">StylerX</a> · <a href="https://github.com/yummyfiles/hyprsetups">HyprSetups</a>
 
 </div>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
 <div align="center">
 
@@ -72,8 +68,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
----
-
 <div align="center">
 
 ### // STACK
@@ -84,7 +78,7 @@
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Git" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="GitHub" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-light.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-dark.svg" alt="VS Code" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Android Studio" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Git" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="GitHub" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-light.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/vscode-dark.svg" alt="VS Code" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Android%20Studio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Android Studio" /></picture>
 
 <br><br>
 
@@ -92,11 +86,11 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Arch%20Linux-FFFFFF?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=archlinux&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Arch%20Linux-FFFFFF?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Arch Linux" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hyprland-FFFFFF?style=for-the-badge&logo=hyprland&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Hyprland-FFFFFF?style=for-the-badge&logo=hyprland&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Hyprland" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-light.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-dark.svg" alt="Waybar" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-light.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-dark.svg" alt="Kitty" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Neovim" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Arch%20Linux-FFFFFF?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=archlinux&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Arch%20Linux-FFFFFF?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Arch Linux" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Hyprland-FFFFFF?style=for-the-badge&logo=hyprland&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/Hyprland-FFFFFF?style=for-the-badge&logo=hyprland&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Hyprland" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-light.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/waybar-dark.svg" alt="Waybar" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-light.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/badges/kitty-dark.svg" alt="Kitty" /></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=000000&labelColor=FFFFFF&color=000000"><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><img src="https://img.shields.io/badge/Neovim-FFFFFF?style=for-the-badge&logo=neovim&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Neovim" /></picture>
 
 </div>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
 <table width="100%" border="1" cellpadding="18" cellspacing="0">
 <tr>
@@ -118,13 +112,9 @@
 </tr>
 </table>
 
----
-
-<div align="center">
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
-<br><br>
+<div align="center">
 
 ### // SUPPORT
 
@@ -134,7 +124,7 @@
 
 </div>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
 <div align="center">
 
