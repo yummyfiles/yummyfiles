@@ -2,6 +2,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=32&duration=3900&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=YUMMYFILES+%2F%2F+DEV;Indie+developer;FOSS+%2F%2F+side+quests;probably+breaking+something;probably+up+at+2am+ricing+linux"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=32&duration=3900&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=YUMMYFILES+%2F%2F+DEV;Indie+developer;FOSS+%2F%2F+side+quests;probably+breaking+something;probably+up+at+2am+ricing+linux"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=32&duration=3900&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=YUMMYFILES+%2F%2F+DEV;Indie+developer;FOSS+%2F%2F+side+quests;probably+breaking+something;probably+up+at+2am+ricing+linux" alt="Typing SVG" /></picture>
 
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
+
 <br><br>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Stars" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Repos" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/yummyfiles?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/yummyfiles?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/github/followers/yummyfiles?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Followers" /></picture>
@@ -45,6 +49,8 @@
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 </pre>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
 
 ---
 
@@ -95,6 +101,10 @@
 ---
 
 <div align="center">
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/animated-divider.svg" alt="Animated divider" width="80%" /></picture>
+
+<br><br>
 
 ### // SUPPORT
 
