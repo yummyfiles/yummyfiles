@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### `// ABOUT`
+### // ABOUT
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### `// SYSTEM`
+### // SYSTEM
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-### `// STACK`
+### // STACK
 
 <br>
 
@@ -62,7 +62,7 @@
 
 <br><br>
 
-### `// ARCH SETUP`
+### // ARCH SETUP
 
 <br>
 
@@ -77,7 +77,7 @@
 <td>
 <div align="center">
 
-### `// STATS & MUSIC`
+### // STATS & MUSIC
 
 <br>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
 
-### `// SUPPORT`
+### // SUPPORT
 
 <br>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-### `// BTW`
+### // BTW
 
 **check out [ChatSec](https://chatsec.pl)** — a Discord alternative made by my friend.
 
