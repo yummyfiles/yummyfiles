@@ -4,7 +4,7 @@
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Stars" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Repos" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/github/stars/yummyfiles?affiliations=OWNER&style=for-the-badge&label=STARS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Stars" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyummyfiles&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Repos" /></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/yummyfiles?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/yummyfiles?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=000000&labelColor=FFFFFF&color=000000"><img src="https://img.shields.io/github/followers/yummyfiles?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=000000&color=FFFFFF" alt="Followers" /></picture>
 
 <br><br>
 
@@ -110,11 +110,11 @@
 
 ### `// BTW`
 
-</div>
-
 **check out [ChatSec](https://chatsec.pl)** — a Discord alternative made by my friend.
 
 i've been testing it out lately and it's pretty cool lol
+
+</div>
 
 <br>
 
