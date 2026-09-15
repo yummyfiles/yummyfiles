@@ -35,7 +35,7 @@ I like projects that are simple, useful, and actually feel like somebody made th
 <tr>
 <td width="50%">
 
-#### 🎵 MusicX
+#### MusicX
 
 A free, open-source offline music player for Android.
 
@@ -46,7 +46,7 @@ No ads. No subscriptions. No accounts. No weird premium tier.
 </td>
 <td width="50%">
 
-#### 🖥️ My Linux setup
+#### My Linux setup
 
 Currently running **Arch + Hyprland**, with way too much time spent making the desktop look exactly how I want it.
 
@@ -57,7 +57,7 @@ Black, minimal, glassy, and mostly monochrome.
 <tr>
 <td width="50%">
 
-#### 🎨 StylerX
+#### StylerX
 
 An OBS Studio plugin for customizing the look of your setup.
 
@@ -66,7 +66,7 @@ An OBS Studio plugin for customizing the look of your setup.
 </td>
 <td width="50%">
 
-#### 🧪 Other stuff
+#### Other stuff
 
 Klipix · NoteX · Static · OpenJar · YummyOS · GitDeck · BlockCraftVR · and whatever i'm messing with next.
 
@@ -145,5 +145,5 @@ i've been testing it out lately and it's pretty cool lol
 <br>
 
 <div align="center">
-<sub><em>psst... i use arch btw</em></sub>  (👁    _    👁)
+<sub><em>psst... i use arch btw</em></sub>  (    _    )
 </div>
