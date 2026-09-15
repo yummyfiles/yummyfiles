@@ -124,7 +124,7 @@ Klipix · NoteX · Static · OpenJar · YummyOS · GitDeck · BlockCraftVR · an
 
 <br>
 
-### // SUPPORT
+### // SUPPORT&nbsp;
 
 If you like something i've made and want to throw a few bucks at it, there's a Ko-fi. No pressure tho.
 
