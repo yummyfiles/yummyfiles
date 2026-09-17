@@ -130,7 +130,7 @@ If you like something i've made and want to throw a few bucks at it, there's a K
 
 <div align="center">
 
-<a href="https://ko-fi.com/Z5Z521S7ER"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/kofi-badge.svg?v=3" alt="Support me on Ko-fi"></a>
+<a href="https://ko-fi.com/Z5Z521S7ER"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/kofi-badge.svg?v=4" alt="Support me on Ko-fi"></a>
 
 </div>
 
