@@ -4,7 +4,7 @@
   </defs>
   <g clip-path="url(#badge)">
     <rect width="250" height="40" fill="#fff"/>
-    <rect width="105" height="40" fill="#000"/>
+    <rect width="145" height="40" fill="#000"/>
 
     <rect x="0" y="0" width="3" height="40" fill="#fff" opacity="0">
       <animate attributeName="x" from="-8" to="258" dur="2.8s" repeatCount="indefinite"/>
@@ -23,7 +23,7 @@
     </g>
 
     <text x="53" y="25" fill="#fff" font-family="Arial, sans-serif" font-size="13" font-weight="700">SUPPORT ME ON</text>
-    <text x="125" y="25" fill="#000" font-family="Arial, sans-serif" font-size="16" font-weight="700">Ko-fi</text>
+    <text x="157" y="25" fill="#000" font-family="Arial, sans-serif" font-size="16" font-weight="700">Ko-fi</text>
   </g>
   <rect x="0.5" y="0.5" width="249" height="39" rx="6" fill="none" stroke="#000" stroke-width="1"/>
 </svg>
