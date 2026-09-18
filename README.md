@@ -41,7 +41,7 @@ A free, open-source offline music player for Android.
 
 No ads. No subscriptions. No accounts. No weird premium tier.
 
-[**→ yummyfiles/MusicX**](https://github.com/yummyfiles/MusicX)
+[**→ MusicX**](https://github.com/yummyfiles/MusicX)
 
 </td>
 <td width="50%">
