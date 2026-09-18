@@ -39,7 +39,7 @@ I like projects that are simple, useful, or free alternatives to paid software.
 
 A free, open-source offline music player for Android.
 
-No ads. No subscriptions. No accounts. No weird premium tier.
+No ads, subscriptions, accounts, or weird premium tier and fully customizable.
 
 [**→ MusicX**](https://github.com/yummyfiles/MusicX)
 
@@ -48,9 +48,11 @@ No ads. No subscriptions. No accounts. No weird premium tier.
 
 #### My Linux setup
 
-Currently running **Arch + Hyprland**, with way too much time spent making the desktop look exactly how I want it.
+Currently running **Arch + Hyprland**.
 
 Black, minimal, and mostly monochrome.
+
+[> all setups here](https://github.com/yummyfiles/hyprsetups)
 
 </td>
 </tr>
@@ -68,7 +70,7 @@ An OBS Studio plugin for customizing the look of your setup.
 
 #### Other stuff
 
-Klipix · NoteX · Static · OpenJar · YummyOS · GitDeck · BlockCraftVR · and whatever i'm messing with next.
+whatever i'm messing with next.
 
 [**→ see all repos**](https://github.com/yummyfiles?tab=repositories)
 
