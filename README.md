@@ -145,5 +145,5 @@ i've been testing it out lately and it's pretty cool lol
 <br>
 
 <div align="center">
-<sub><em>psst... i use arch btw</em></sub>  (    _    )
+<sub><em>psst... i use arch btw</em></sub>  (  ⊙ _ ⊙  )
 </div>
