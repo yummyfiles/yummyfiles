@@ -50,7 +50,7 @@ No ads. No subscriptions. No accounts. No weird premium tier.
 
 Currently running **Arch + Hyprland**, with way too much time spent making the desktop look exactly how I want it.
 
-Black, minimal, glassy, and mostly monochrome.
+Black, minimal, and mostly monochrome.
 
 </td>
 </tr>
