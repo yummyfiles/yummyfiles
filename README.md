@@ -23,9 +23,9 @@
 
 I make random software and occasionally decide that something needs to be rebuilt from scratch.
 
-Mostly interested in **FOSS, Linux, Android, desktop apps, and making things look nice without turning them into a bloated mess.**
+Mostly interested in **FOSS, Linux, Android, desktop apps, and making things look cool.**
 
-I like projects that are simple, useful, and actually feel like somebody made them.
+I like projects that are simple, useful, or free alternatives to paid software.
 
 <br>
 
