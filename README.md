@@ -145,3 +145,23 @@ If you like something i've made and want to throw a few bucks at it, there's a K
 i've been testing it out lately and it's pretty cool lol
 
 <br>
+
+<br>
+
+### // WHAT'S NEXT
+
+Sooo... today's school presentation got me thinking about what's next.
+
+We had a presentation about the **Advanced Technology Center (ATC)**, and I found out I can apply for actual tech career programs right here in Virginia Beach. The place is basically down the street, and the programs are free.
+
+So yeah, **I'm applying.**
+
+My first two choices are:
+- **Software & Game Development** — building on the coding and open-source projects I've already been working on.
+- **Web Coding & Design** — bringing my design ideas to life with actual frontend development.
+
+I'm self-taught so far, working on stuff like [MusicX](https://github.com/yummyfiles/MusicX) and [StylerX](https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio), and I'm hoping these programs help me build a stronger foundation and become a better developer.
+
+Nothing's confirmed yet — I'm still applying — but this could be a pretty exciting next chapter.
+
+**YUMMYFILES // DEV — career expansion loading...**
