@@ -133,7 +133,7 @@ If you like something i've made and want to throw a few bucks at it, there's a K
 
 <div align="center">
 
-<a href="https://ko-fi.com/Z5Z521S7ER"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/kofi-badge.svg" alt="Support me on Ko-fi"></a>
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000)](https://ko-fi.com/Z5Z521S7ER)
 
 </div>
 
