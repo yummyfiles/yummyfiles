@@ -5,7 +5,7 @@
 **indie dev · FOSS · linux · stuff i make when i get bored**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/yummyfiles)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000)](https://ko-fi.com/Z5Z521S7ER)
+<a href="https://ko-fi.com/Z5Z521S7ER"><img src="https://img.shields.io/badge/Ko--fi-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000" height="48" alt="Ko-fi"></a>
 [![Discussions](https://img.shields.io/badge/Discussions-ffffff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/yummyfiles/yummyfiles/discussions)
 
 </div>
