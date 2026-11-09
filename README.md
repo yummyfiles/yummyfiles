@@ -42,7 +42,7 @@ A free, open-source offline music player for Android.
 
 No ads, subscriptions, accounts, or weird premium tier and fully customizable.
 
-[**→ MusicX**](https://github.com/yummyfiles/MusicX)
+[**> MusicX**](https://github.com/yummyfiles/MusicX)
 
 </td>
 <td width="50%">
@@ -64,7 +64,7 @@ Black, minimal, and mostly monochrome.
 
 An OBS Studio plugin for customizing the look of your setup.
 
-[**→ StylerX**](https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio)
+[**> StylerX**](https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio)
 
 </td>
 <td width="50%">
@@ -73,7 +73,7 @@ An OBS Studio plugin for customizing the look of your setup.
 
 whatever i'm messing with next.
 
-[**→ see all repos**](https://github.com/yummyfiles?tab=repositories)
+[**> see all repos**](https://github.com/yummyfiles?tab=repositories)
 
 </td>
 </tr>
