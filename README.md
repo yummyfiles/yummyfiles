@@ -104,15 +104,15 @@ whatever i'm messing with next.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&ring_color=000000">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api?username=yummyfiles&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff" alt="GitHub stats">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000">
+  <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yummyfiles&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top languages">
 </picture>
 
 <br>
@@ -120,7 +120,7 @@ whatever i'm messing with next.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000">
-  <img src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak">
+  <img width="100%" src="https://streak-stats.demolab.com?user=yummyfiles&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub streak">
 </picture>
 
 </div>
