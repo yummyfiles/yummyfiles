@@ -4,7 +4,7 @@
 
 **indie dev · FOSS · linux · stuff i make when i get bored**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/yummyfiles)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/yummyfiles)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000)](https://ko-fi.com/Z5Z521S7ER)
 [![Discussions](https://img.shields.io/badge/Discussions-ffffff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/yummyfiles/yummyfiles/discussions)
 
@@ -133,7 +133,7 @@ If you like something i've made and want to throw a few bucks at it, there's a K
 
 <div align="center">
 
-<a href="https://ko-fi.com/Z5Z521S7ER"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/kofi-badge.svg?v=4" alt="Support me on Ko-fi"></a>
+<a href="https://ko-fi.com/Z5Z521S7ER"><img src="https://raw.githubusercontent.com/yummyfiles/yummyfiles/main/assets/kofi-badge.svg" alt="Support me on Ko-fi"></a>
 
 </div>
 
