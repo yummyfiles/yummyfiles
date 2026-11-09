@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/yummyfiles)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-ffffff?style=for-the-badge&logo=ko-fi&logoColor=000000)](https://ko-fi.com/Z5Z521S7ER)
+[![Discussions](https://img.shields.io/badge/Discussions-ffffff?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/yummyfiles/yummyfiles/discussions)
 
 </div>
 
