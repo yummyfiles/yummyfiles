@@ -6,9 +6,10 @@ We had a presentation about the **Advanced Technology Center (ATC)**, and I foun
 
 **I'm applying!**
 
-My first two choices:
-- **Software & Game Development**
-- **Web Coding & Design**
+My program choices:
+1. **Software & Game Development** — first choice
+2. **Web Coding & Design** — second choice
+3. **Computer Systems Technology** — third choice
 
 I've been teaching myself programming and building open-source projects like [MusicX](https://github.com/yummyfiles/MusicX) and [StylerX](https://github.com/yummyfiles/StylerX-Styler_for_OBS_Studio). I'm hoping these programs help me build a stronger foundation, learn more about software development, and become a better developer.
 
