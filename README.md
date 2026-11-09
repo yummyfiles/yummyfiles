@@ -85,15 +85,15 @@ whatever i'm messing with next.
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-ffffff?style=for-the-badge&logo=kotlin&logoColor=000000)
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000)
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-ffffff?style=for-the-badge&logo=android&logoColor=000000)
 ![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000)
-![Arch Linux](https://img.shields.io/badge/Arch-000000?style=for-the-badge&logo=archlinux&logoColor=ffffff)
+![Arch Linux](https://img.shields.io/badge/Arch-ffffff?style=for-the-badge&logo=archlinux&logoColor=000000)
 ![Hyprland](https://img.shields.io/badge/Hyprland-ffffff?style=for-the-badge&logo=hyprland&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000)
 
 </div>
 
